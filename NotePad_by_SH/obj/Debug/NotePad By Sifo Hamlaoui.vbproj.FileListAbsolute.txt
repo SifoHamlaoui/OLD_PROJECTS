@@ -1,0 +1,20 @@
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.exe.config
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.exe
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.pdb
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.xml
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad_By_Sifo_Hamlaoui.Form1.resources
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad_By_Sifo_Hamlaoui.Resources.resources
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.vbproj.GenerateResource.Cache
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.exe
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.xml
+c:\users\sifo hamlaoui\documents\visual studio 2012\Projects\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.pdb
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.exe.config
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.exe
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.xml
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.pdb
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.exe
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.pdb
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\bin\Debug\NotePad By Sifo Hamlaoui.xml
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad_By_Sifo_Hamlaoui.Form1.resources
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad_By_Sifo_Hamlaoui.Resources.resources
+H:\RIPROJECTS\vbProject By ME\NotePad By Sifo Hamlaoui\NotePad By Sifo Hamlaoui\obj\Debug\NotePad By Sifo Hamlaoui.vbproj.GenerateResource.Cache
