@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Avast_2014_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Avast_2014_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bh0_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bh0_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bullion_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bullion_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Effectual_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Effectual_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Electric_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Electric_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Facebook_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Facebook_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KasperSky_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\KasperSky_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LogIn_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LogIn_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Purityx_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Purityx_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Redemption_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Redemption_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rockstar_theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rockstar_theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Skype_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skype_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slc_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slc_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sugar_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sugar Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Twitch_White_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Twitch_White_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Viblender_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Viblender_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vitality_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vitality_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VIT_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VIT Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Win8_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Win8_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="X_Visual" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X_Visual.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Avast2014" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Avast2014.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="BHO_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BHO Theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="blackshades_net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blackshades.net.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="BlackShades_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BlackShades_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bullion_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bullion_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="carbonfibretheme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carbonfibretheme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Carbon_Fiber_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Carbon_Fiber_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Classic_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Classic_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="classic_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\classic_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="custom_theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\custom_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Effectual_Theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Effectual Theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Electric_Theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Electric Theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Facebook" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Facebook.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Flut_ui_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Flut_ui_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flut_ui_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flut_ui_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="influence_theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\influence_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Influx_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Influx_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="influx_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\influx_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Inluence_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Inluence_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kaspersky" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kaspersky.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Login_Theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Meph_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Meph_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meph_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meph_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Nyx_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Nyx_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nyx_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nyx_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="orainstheme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\orainstheme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Orains_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Orains_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Origin_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Origin_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="origin_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\origin_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Paladin_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paladin_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paladin_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paladin_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="PerPlex_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PerPlex_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="perplex_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\perplex_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Positron_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Positron_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="positron_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\positron_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="purityx_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\purityx_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Reactor_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Reactor_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reactor_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reactor_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Recon_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Recon_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recon_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recon_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="recuperareii_theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recuperareii_theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recuperareii_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recuperareii_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="redemption_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\redemption_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Rockstar_Theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rockstar Theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Sharp_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sharp_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sharp_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sharp-theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Skype_Theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skype Theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="slc_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slc_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="sugar_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sugar_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="teen_theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\teen_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Thirteen_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Thirteen_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="twitch_theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\twitch_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Ubuntu_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ubuntu_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ubuntu_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ubuntu_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="vibelander_theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vibelander_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Visceral_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Visceral_Theme.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="visceral_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\visceral_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="vitality_theme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vitality_theme.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="windows_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows 8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="xvisual_theme_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xvisual_theme_.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+</root>
