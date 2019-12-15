@@ -1,5 +1,5 @@
 # OLD_PROJECTS
-My old kids projects ' OLD_PROJECTS ' 
+My old 'KIDDO' projects ' OLD_PROJECTS ' 
 # Content : 
 [NotePad by SH](https://github.com/SifoHamlaoui/OLD_PROJECTS/tree/master/NotePad_by_SH)
 
